@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c101",
+    "name": "Data Processing Agreement",
+    "parties": "Stripe Inc. & Fintech Labs",
+    "expiry": "2026-03-15",
+    "status": "Active",
+    "risk": "Low"
+  },
+  {
+    "id": "c102",
+    "name": "Cloud Hosting SLA",
+    "parties": "AWS & EduSoft Pvt Ltd",
+    "expiry": "2025-11-01",
+    "status": "Renewal Due",
+    "risk": "Medium"
+  },
+  {
+    "id": "c103",
+    "name": "Consulting Services Contract",
+    "parties": "Deloitte & HealthCorp",
+    "expiry": "2025-10-10",
+    "status": "Expired",
+    "risk": "High"
+  }
+]
